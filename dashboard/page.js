@@ -25,7 +25,7 @@ export default function Dashboard() {
     { code: "GE-09" },
     { code: "GE-12" },
     { code: "IT-102", deadlines: 1 },
-    { code: "GE-07", deadlines: 1 },
+    { code: "GE-07", deadlines: 1 }, 
   ];
 
   const progressData = [
