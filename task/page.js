@@ -225,13 +225,13 @@ export default function Dashboard() {
                                                     Submit
                                                 </button>
                                             </td>
-                                        </tr>
+                                        </tr>  
                                     ))}
                                 </tbody>
                             </table>
-                        </div>
+                        </div> 
                     </div>
-
+ 
                 </div>
             </main>
         </div>

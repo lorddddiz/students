@@ -114,7 +114,7 @@ const feeData = [
                   <th className="px-4 py-3">Amount</th>
                   <th className="px-4 py-3">Due Date</th>
                   <th className="px-4 py-3">Action</th> 
-                </tr>
+                </tr> 
               </thead>
               <tbody>
                 {feeData.map((fee, index) => (
